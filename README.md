@@ -12,7 +12,7 @@ My passion for Information Technology has led me to develop a passion for Cybers
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://https://github.com/TimileyinAlabi/Malware-Detection-Lab/tree/main">Malware Analysis and Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/TimileyinAlabi/Malware-Detection-Lab/tree/main">Malware Analysis and Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -50,7 +50,7 @@ My passion for Information Technology has led me to develop a passion for Cybers
 </div>
 
 ## Projects
-- <a href="https://https://github.com/TimileyinAlabi/Malware-Detection-Lab/tree/main">Malware Analysis and Detection Lab</a>
+- <a href="//https://github.com/TimileyinAlabi/Malware-Detection-Lab/tree/main">Malware Analysis and Detection Lab</a>
 - Active Directory Project
 - SOAR EDR Project
 - Public Key Infrastructure
