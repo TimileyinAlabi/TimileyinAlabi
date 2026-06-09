@@ -50,7 +50,7 @@ My passion for Information Technology has led me to develop a passion for Cybers
 </div>
 
 ## Projects
-- <a href="//https://github.com/TimileyinAlabi/Malware-Detection-Lab/tree/main">Malware Analysis and Detection Lab</a>
+- <a href="https://github.com/TimileyinAlabi/Malware-Detection-Lab/tree/main">Malware Analysis and Detection Lab</a>
 - Active Directory Project
 - SOAR EDR Project
 - Public Key Infrastructure
