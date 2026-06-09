@@ -53,3 +53,4 @@ My passion for Information Technology has led me to develop a passion for Cybers
 - Malware Detection Project
 - Active Directory Project
 - SOAR EDR Project
+- Public Key Infrastructure
